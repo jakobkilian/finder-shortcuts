@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
-	<string>create-local-note</string>
+	<string>applet</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.ScriptEditor.id.create-markdown</string>
 	<key>CFBundleInfoDictionaryVersion</key>
