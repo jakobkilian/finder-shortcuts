@@ -13,11 +13,10 @@ All helper buttons are essentially macOS Apps, created with the built in [script
 1. Download files and place the .app file somewhere on your computer (e.g. `/Applications/Tools`). Do either of these:
    1. Use the .app file provided by me. This needs [unblocking in system settings](https://support.apple.com/guide/mac-help/mh40616/mac)
    2. Use the .script file to create your own .app in [script editor](https://support.apple.com/guide/script-editor/scpedt1072/2.11/mac/15.0)
-2. Select the .app, press CMD+i and drag and drop the png icon onto the icon in top left corner of the info window (left of the file name)
-3. Right click on the Finder toolbar, select `Customize Toolbar`
-4. Drag and drop the just created .app file
+2. Right click on the Finder toolbar, select `Customize Toolbar`
+3. Drag and drop the just created .app file
 **Usage**
-5. Click on the icon, while using Finder... 💥
+4. Click on the icon, while using Finder... 💥
 
 ## Edit & Adapt
 
