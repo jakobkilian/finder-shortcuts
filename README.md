@@ -5,6 +5,7 @@ I wanted to create md files in macOS Finder with one click and ended up creating
 - create-local-note: **Create New Markdown File**
 - get-path: **Get Path / Link to Selected File**
 - goto-obsidian: **Go To / Create Obsidian Note with Folder Name**
+- compress-pdfs: **Compresses Selected PDFs**
 
 ## Install & Use
 
@@ -15,8 +16,12 @@ All helper buttons are essentially macOS Apps, created with the built in [script
    2. Use the .script file to create your own .app in [script editor](https://support.apple.com/guide/script-editor/scpedt1072/2.11/mac/15.0)
 2. Right click on the Finder toolbar, select `Customize Toolbar`
 3. Drag and drop the just created .app file
-**Usage**
+  **Usage**
 4. Click on the icon, while using Finder... 💥
+
+## Icon
+
+If you want to change the icon, open the .app with right-click → show contents and replace the .icns file under "Contents" → "Resources"
 
 ## Edit & Adapt
 
